@@ -12,7 +12,7 @@ Thoroughly tested on LTS distros:
 - CentOS: 5, 6, 7, 8
 - Debian: 6, 7, 8, 9, 10, 11
 - Rocky: 8
-- Ubuntu: 12.04, 14.04, 16.04, 18.04, 20.04, 22.04
+- Ubuntu: 12.04, 14.04, 16.04, 18.04, 20.04, 22.04, 24.04
 
 ## Fast install with install.sh script
 ```bash
